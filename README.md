@@ -1,3 +1,3 @@
 # Python-in-the-enterprise
-Hubert Regec
-Jakub Ledwoń
+Hubert Regec v2
+Jakub Ledwoń 
